@@ -8,6 +8,6 @@
 
 `node index.js`
 
-## Run 
+## Run example
 
 ` node index.js --size=1000000 --type=LODASH `
